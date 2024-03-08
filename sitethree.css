@@ -495,7 +495,7 @@ a {
   font-weight: 600;
 }
 .dish-price::after {
-  content: ' ₽';
+  content: ' $';
 }
 .dish-pic {
   object-fit: cover;
